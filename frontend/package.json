@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "homepage": "https://sudhar-21.github.io/food-website/",
+  "homepage": "https://github.com/sudhar-21/food-website.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,6 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.1.0",
